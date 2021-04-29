@@ -1,0 +1,1 @@
+A translator to translate KGX (knowledge graph exchange) formatted edge TSV files to arangoDB compatible edge TSV files.
